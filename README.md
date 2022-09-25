@@ -34,3 +34,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpbenga&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/jean-paul-benga"><img src="https://img.shields.io/badge/-Benga%20Jean%20Paul-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jpaulbenga@gmail.com"><img src="https://img.shields.io/badge/-jpaulbenga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
