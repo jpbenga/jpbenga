@@ -3,8 +3,8 @@
 
 #### 🧑🏾‍💻 About me:
 
-- 👨🏾‍🎓 Je sors d'une formation plutôt intense de 9 mois afin de devenir Développeur Web.
-- 🌱 Sur mon temps libre je m'autoforme sur des technologies comme Javascript, Python et Symfony entre autre.
+- 👨🏾‍🎓 Je passe actuellement le dimplôme de Concepteur Développeur d'Application (Bac+3/4) et suis à la recherche d'un stage du 24/11/2023 au 02/04/2024.
+- 🌱 Sur mon temps libre je m'autoforme sur des technologies comme Nodejs, Angular, Java et Symfony entre autre.
 - 🙇🏾 Mon but est de pouvoir faire en sorte que ma passion devienne mon métier et ainsi devenir développeur au sein d'une entreprise.
 - 📫 Vous pouvez me joindre par mail sur mon adresse: jpaulbenga@gmail.com
 
@@ -15,16 +15,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-java-blue)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=sql)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Kotlin](https://img.shields.io/badge/-kotlin-yellow)&nbsp;
+![Electronjs](https://img.shields.io/badge/-kotlin-important)&nbsp;
+![Angular](https://img.shields.io/badge/-kotlin-critical)&nbsp;
+![Nodejs](https://img.shields.io/badge/-kotlin-blueviolet)&nbsp;
+![Spring](https://img.shields.io/badge/-kotlin-9cf)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
