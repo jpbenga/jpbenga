@@ -23,7 +23,7 @@
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)&nbsp;
 ![Electronjs](https://img.shields.io/badge/-Electronjs-important)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-critical?style=flat&logo=HTML5)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-9cf)&nbsp;
 
