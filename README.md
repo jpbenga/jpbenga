@@ -21,11 +21,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)&nbsp;
-![Electronjs](https://img.shields.io/badge/-Electronjs-important)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Electronjs](https://img.shields.io/badge/-Electronjs-05122A?style=flat&logo=electronjs)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-9cf)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
