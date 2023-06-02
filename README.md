@@ -24,8 +24,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Electronjs](https://img.shields.io/badge/-Electronjs-05122A?style=flat&logo=electron)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
